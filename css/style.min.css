@@ -898,7 +898,8 @@ nav.active-home .read-link {
 }
 @media screen and (max-width: 1024px) {
     .floating {
-        width: 66.666666%
+        width:100%;
+        /* width: 66.666666% */
     }
     .floating .video,
     .floating i {
@@ -958,11 +959,11 @@ nav.active-home .read-link {
     }
     .floating .featured:before {
         background-color: #00ACE6;
-        /* top: -5% */
+        top: -5% 
     }
     .floating .featured:after {
         background-color: #fff;
-        /* bottom: -5% */
+        bottom: -5% 
     }
     .floating .video,
     .floating i {
