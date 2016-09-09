@@ -950,7 +950,7 @@ nav.active-home .read-link {
     .floating .featured:before {
         content: ' ';
         display: block;
-        height: 100%;
+        height: 55%;
         left: -1000rem;
         position: absolute;
         right: -1000rem;
@@ -958,11 +958,11 @@ nav.active-home .read-link {
     }
     .floating .featured:before {
         background-color: #00ACE6;
-        top: -5%
+        /* top: -5% */
     }
     .floating .featured:after {
         background-color: #fff;
-        bottom: -5%
+        /* bottom: -5% */
     }
     .floating .video,
     .floating i {
