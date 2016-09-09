@@ -950,7 +950,7 @@ nav.active-home .read-link {
     .floating .featured:before {
         content: ' ';
         display: block;
-        height: 55%;
+        height: 100%;
         left: -1000rem;
         position: absolute;
         right: -1000rem;
