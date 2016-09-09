@@ -898,8 +898,7 @@ nav.active-home .read-link {
 }
 @media screen and (max-width: 1024px) {
     .floating {
-        width:100%;
-        /* width: 66.666666% */
+        width: 66.666666%
     }
     .floating .video,
     .floating i {
